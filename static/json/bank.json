@@ -1,0 +1,1608 @@
+{
+    "result": {
+        "code": "0",
+        "message": "访问成功"
+    },
+    "data": {
+        "Mechanism_tree": [
+            {
+                "parent_branch_id": "2000",
+                "parent_branch_name": "境内汇总",
+                "Blanch": []
+            },
+            {
+                "parent_branch_id": "3000",
+                "parent_branch_name": "境外汇总",
+                "Blanch": []
+            },
+            {
+                "parent_branch_id": "1010",
+                "parent_branch_name": "总行本部（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "1001",
+                        "blanch_name": "总行本部"
+                    },
+                    {
+                        "blanch_id": "1002",
+                        "blanch_name": "华东信审中心"
+                    },
+                    {
+                        "blanch_id": "1003",
+                        "blanch_name": "华南信审中心"
+                    },
+                    {
+                        "blanch_id": "1004",
+                        "blanch_name": "华北信审中心"
+                    },
+                    {
+                        "blanch_id": "1005",
+                        "blanch_name": "华中信审中心"
+                    },
+                    {
+                        "blanch_id": "1006",
+                        "blanch_name": "总行信用卡中心"
+                    },
+                    {
+                        "blanch_id": "1007",
+                        "blanch_name": "运营管理部清算结算中心"
+                    },
+                    {
+                        "blanch_id": "1008",
+                        "blanch_name": "总行客户服务中心"
+                    },
+                    {
+                        "blanch_id": "1009",
+                        "blanch_name": "金融市场中心"
+                    },
+                    {
+                        "blanch_id": "1012",
+                        "blanch_name": "西部审计中心"
+                    },
+                    {
+                        "blanch_id": "1018",
+                        "blanch_name": "资产管理事业部"
+                    },
+                    {
+                        "blanch_id": "1102",
+                        "blanch_name": "不良贷款核算机构（北京分行）"
+                    },
+                    {
+                        "blanch_id": "1103",
+                        "blanch_name": "不良贷款核算机构（黑龙江分行）"
+                    },
+                    {
+                        "blanch_id": "1104",
+                        "blanch_name": "不良贷款核算机构（深圳分行）"
+                    },
+                    {
+                        "blanch_id": "1105",
+                        "blanch_name": "不良贷款核算机构（烟台分行）"
+                    },
+                    {
+                        "blanch_id": "1106",
+                        "blanch_name": "不良贷款核算机构（上海分行）"
+                    },
+                    {
+                        "blanch_id": "1107",
+                        "blanch_name": "不良贷款核算机构（大连分行）"
+                    },
+                    {
+                        "blanch_id": "1108",
+                        "blanch_name": "不良贷款核算机构（长春分行）"
+                    },
+                    {
+                        "blanch_id": "1109",
+                        "blanch_name": "不良贷款核算机构（重庆分行）"
+                    },
+                    {
+                        "blanch_id": "1110",
+                        "blanch_name": "不良贷款核算机构（青岛分行）"
+                    },
+                    {
+                        "blanch_id": "1111",
+                        "blanch_name": "不良贷款核算机构（海口分行）"
+                    },
+                    {
+                        "blanch_id": "1112",
+                        "blanch_name": "不良贷款核算机构（广州分行）"
+                    },
+                    {
+                        "blanch_id": "1113",
+                        "blanch_name": "不良贷款核算机构（昆明分行）"
+                    },
+                    {
+                        "blanch_id": "1114",
+                        "blanch_name": "不良贷款核算机构（武汉分行）"
+                    },
+                    {
+                        "blanch_id": "1115",
+                        "blanch_name": "不良贷款核算机构（厦门分行）"
+                    },
+                    {
+                        "blanch_id": "1116",
+                        "blanch_name": "不良贷款核算机构（成都分行）"
+                    },
+                    {
+                        "blanch_id": "1117",
+                        "blanch_name": "不良贷款核算机构（福州分行）"
+                    },
+                    {
+                        "blanch_id": "1118",
+                        "blanch_name": "不良贷款核算机构（苏州分行）"
+                    },
+                    {
+                        "blanch_id": "1119",
+                        "blanch_name": "不良贷款核算机构（沈阳分行）"
+                    },
+                    {
+                        "blanch_id": "1120",
+                        "blanch_name": "不良贷款核算机构（南京分行）"
+                    },
+                    {
+                        "blanch_id": "1121",
+                        "blanch_name": "不良贷款核算机构（天津分行）"
+                    },
+                    {
+                        "blanch_id": "1122",
+                        "blanch_name": "不良贷款核算机构（郑州分行）"
+                    },
+                    {
+                        "blanch_id": "1123",
+                        "blanch_name": "不良贷款核算机构（杭州分行）"
+                    },
+                    {
+                        "blanch_id": "1124",
+                        "blanch_name": "不良贷款核算机构（济南分行）"
+                    },
+                    {
+                        "blanch_id": "1125",
+                        "blanch_name": "不良贷款核算机构（西安分行）"
+                    },
+                    {
+                        "blanch_id": "1126",
+                        "blanch_name": "不良贷款核算机构（长沙分行）"
+                    },
+                    {
+                        "blanch_id": "1127",
+                        "blanch_name": "不良贷款核算机构（南宁分行）"
+                    },
+                    {
+                        "blanch_id": "1128",
+                        "blanch_name": "不良贷款核算机构（石家庄分行）"
+                    },
+                    {
+                        "blanch_id": "1129",
+                        "blanch_name": "不良贷款核算机构（宁波分行）"
+                    },
+                    {
+                        "blanch_id": "1130",
+                        "blanch_name": "不良贷款核算机构（合肥分行）"
+                    },
+                    {
+                        "blanch_id": "1131",
+                        "blanch_name": "不良贷款核算机构（太原分行）"
+                    },
+                    {
+                        "blanch_id": "7535",
+                        "blanch_name": "内蒙资产管理部"
+                    },
+                    {
+                        "blanch_id": "7536",
+                        "blanch_name": "香港代表处"
+                    },
+                    {
+                        "blanch_id": "7537",
+                        "blanch_name": "南非代表处"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2020",
+                "parent_branch_name": "北京分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "3500",
+                        "blanch_name": "北京分行"
+                    },
+                    {
+                        "blanch_id": "3501",
+                        "blanch_name": "北京德胜门支行"
+                    },
+                    {
+                        "blanch_id": "3502",
+                        "blanch_name": "北京朝内支行"
+                    },
+                    {
+                        "blanch_id": "3503",
+                        "blanch_name": "北京海淀支行"
+                    },
+                    {
+                        "blanch_id": "3504",
+                        "blanch_name": "北京宣武支行"
+                    },
+                    {
+                        "blanch_id": "3505",
+                        "blanch_name": "北京建国门支行"
+                    },
+                    {
+                        "blanch_id": "3506",
+                        "blanch_name": "北京朝阳支行"
+                    },
+                    {
+                        "blanch_id": "3507",
+                        "blanch_name": "北京复兴路支行"
+                    },
+                    {
+                        "blanch_id": "3508",
+                        "blanch_name": "北京交大支行"
+                    },
+                    {
+                        "blanch_id": "3509",
+                        "blanch_name": "北京亚运村支行"
+                    },
+                    {
+                        "blanch_id": "3510",
+                        "blanch_name": "北京花园路支行"
+                    },
+                    {
+                        "blanch_id": "3511",
+                        "blanch_name": "北京阜成路支行"
+                    },
+                    {
+                        "blanch_id": "3512",
+                        "blanch_name": "北京三里河支行"
+                    },
+                    {
+                        "blanch_id": "3513",
+                        "blanch_name": "北京定慧桥支行"
+                    },
+                    {
+                        "blanch_id": "3514",
+                        "blanch_name": "北京工体路支行"
+                    },
+                    {
+                        "blanch_id": "3515",
+                        "blanch_name": "北京西直门支行"
+                    },
+                    {
+                        "blanch_id": "3517",
+                        "blanch_name": "北京方庄支行"
+                    },
+                    {
+                        "blanch_id": "3518",
+                        "blanch_name": "北京长安支行"
+                    },
+                    {
+                        "blanch_id": "3519",
+                        "blanch_name": "北京世纪城支行"
+                    },
+                    {
+                        "blanch_id": "3520",
+                        "blanch_name": "北京长虹桥支行"
+                    },
+                    {
+                        "blanch_id": "3522",
+                        "blanch_name": "北京万柳支行"
+                    },
+                    {
+                        "blanch_id": "3523",
+                        "blanch_name": "北京北太平庄支行"
+                    },
+                    {
+                        "blanch_id": "3524",
+                        "blanch_name": "北京惠新西街支行"
+                    },
+                    {
+                        "blanch_id": "3525",
+                        "blanch_name": "北京望京支行"
+                    },
+                    {
+                        "blanch_id": "3526",
+                        "blanch_name": "北京金源支行"
+                    },
+                    {
+                        "blanch_id": "3527",
+                        "blanch_name": "北京光华路支行"
+                    },
+                    {
+                        "blanch_id": "3528",
+                        "blanch_name": "北京经济技术开发区支行"
+                    },
+                    {
+                        "blanch_id": "3529",
+                        "blanch_name": "北京金融街支行"
+                    },
+                    {
+                        "blanch_id": "3530",
+                        "blanch_name": "北京石景山支行"
+                    },
+                    {
+                        "blanch_id": "3531",
+                        "blanch_name": "北京京广桥支行"
+                    },
+                    {
+                        "blanch_id": "3532",
+                        "blanch_name": "北京崇文支行"
+                    },
+                    {
+                        "blanch_id": "3533",
+                        "blanch_name": "北京苏州街支行"
+                    },
+                    {
+                        "blanch_id": "3534",
+                        "blanch_name": "北京丰台支行"
+                    },
+                    {
+                        "blanch_id": "3535",
+                        "blanch_name": "北京劲松桥支行"
+                    },
+                    {
+                        "blanch_id": "3536",
+                        "blanch_name": "北京清华园支行"
+                    },
+                    {
+                        "blanch_id": "3537",
+                        "blanch_name": "北京上地支行"
+                    },
+                    {
+                        "blanch_id": "3538",
+                        "blanch_name": "北京东高地支行"
+                    },
+                    {
+                        "blanch_id": "3539",
+                        "blanch_name": "北京顺义支行"
+                    },
+                    {
+                        "blanch_id": "3540",
+                        "blanch_name": "北京富力城支行"
+                    },
+                    {
+                        "blanch_id": "3541",
+                        "blanch_name": "北京东长安街支行"
+                    },
+                    {
+                        "blanch_id": "3542",
+                        "blanch_name": "北京西坝河支行"
+                    },
+                    {
+                        "blanch_id": "3543",
+                        "blanch_name": "北京金融街丰盛支行"
+                    },
+                    {
+                        "blanch_id": "3544",
+                        "blanch_name": "北京奥运支行"
+                    },
+                    {
+                        "blanch_id": "3545",
+                        "blanch_name": "北京五棵松支行"
+                    },
+                    {
+                        "blanch_id": "3546",
+                        "blanch_name": "北京望京西支行"
+                    },
+                    {
+                        "blanch_id": "3547",
+                        "blanch_name": "北京和平里支行"
+                    },
+                    {
+                        "blanch_id": "3548",
+                        "blanch_name": "北京姚家园路支行"
+                    },
+                    {
+                        "blanch_id": "3549",
+                        "blanch_name": "北京马连道西支行"
+                    },
+                    {
+                        "blanch_id": "3550",
+                        "blanch_name": "北京分行本部"
+                    },
+                    {
+                        "blanch_id": "3551",
+                        "blanch_name": "北京亦庄支行"
+                    },
+                    {
+                        "blanch_id": "3552",
+                        "blanch_name": "北京安慧支行"
+                    },
+                    {
+                        "blanch_id": "3553",
+                        "blanch_name": "北京建国门内大街支行"
+                    },
+                    {
+                        "blanch_id": "3554",
+                        "blanch_name": "北京大兴金星路支行"
+                    },
+                    {
+                        "blanch_id": "3555",
+                        "blanch_name": "北京通州支行"
+                    },
+                    {
+                        "blanch_id": "3556",
+                        "blanch_name": "北京大兴支行"
+                    },
+                    {
+                        "blanch_id": "3557",
+                        "blanch_name": "北京双井桥支行"
+                    },
+                    {
+                        "blanch_id": "3558",
+                        "blanch_name": "北京顺义后沙峪支行"
+                    },
+                    {
+                        "blanch_id": "3559",
+                        "blanch_name": "北京科技园支行"
+                    },
+                    {
+                        "blanch_id": "3560",
+                        "blanch_name": "北京四季青支行"
+                    },
+                    {
+                        "blanch_id": "3561",
+                        "blanch_name": "北京西客站支行"
+                    },
+                    {
+                        "blanch_id": "7501",
+                        "blanch_name": "北京礼士路支行"
+                    },
+                    {
+                        "blanch_id": "7505",
+                        "blanch_name": "北京学院路支行"
+                    },
+                    {
+                        "blanch_id": "7506",
+                        "blanch_name": "北京天宁寺支行"
+                    },
+                    {
+                        "blanch_id": "7507",
+                        "blanch_name": "北京西城支行"
+                    },
+                    {
+                        "blanch_id": "7508",
+                        "blanch_name": "北京中关村支行"
+                    },
+                    {
+                        "blanch_id": "7509",
+                        "blanch_name": "北京东城支行"
+                    },
+                    {
+                        "blanch_id": "7510",
+                        "blanch_name": "北京新源支行"
+                    },
+                    {
+                        "blanch_id": "7511",
+                        "blanch_name": "北京安定门支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2030",
+                "parent_branch_name": "黑龙江分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2031",
+                        "blanch_name": "哈尔滨地区汇总"
+                    },
+                    {
+                        "blanch_id": "2032",
+                        "blanch_name": "大庆分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2040",
+                "parent_branch_name": "深圳分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2041",
+                        "blanch_name": "深圳分行（深圳市区汇总）"
+                    },
+                    {
+                        "blanch_id": "2042",
+                        "blanch_name": "广东自贸试验深圳前海分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2060",
+                "parent_branch_name": "上海分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2064",
+                        "blanch_name": "上海分行（不含自贸区）"
+                    },
+                    {
+                        "blanch_id": "2065",
+                        "blanch_name": "自贸试验区分行（汇总）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2100",
+                "parent_branch_name": "青岛分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2102",
+                        "blanch_name": "青岛地区汇总"
+                    },
+                    {
+                        "blanch_id": "2103",
+                        "blanch_name": "东营分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2104",
+                        "blanch_name": "临沂分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2105",
+                        "blanch_name": "日照分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2070",
+                "parent_branch_name": "大连分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2072",
+                        "blanch_name": "营口分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2073",
+                        "blanch_name": "大连地区汇总"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2080",
+                "parent_branch_name": "长春分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2081",
+                        "blanch_name": "长春地区汇总"
+                    },
+                    {
+                        "blanch_id": "2082",
+                        "blanch_name": "吉林分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2083",
+                        "blanch_name": "延边分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2120",
+                "parent_branch_name": "广州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2122",
+                        "blanch_name": "珠海分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2123",
+                        "blanch_name": "汕头分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2128",
+                        "blanch_name": "佛山分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2129",
+                        "blanch_name": "东莞分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2350",
+                        "blanch_name": "中山分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2357",
+                        "blanch_name": "江门分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2358",
+                        "blanch_name": "惠州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2359",
+                        "blanch_name": "湛江分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2441",
+                        "blanch_name": "广州市区汇总"
+                    },
+                    {
+                        "blanch_id": "2442",
+                        "blanch_name": "南沙自贸区分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2130",
+                "parent_branch_name": "昆明分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2133",
+                        "blanch_name": "昆明地区汇总"
+                    },
+                    {
+                        "blanch_id": "2134",
+                        "blanch_name": "曲靖分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2140",
+                "parent_branch_name": "武汉分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2141",
+                        "blanch_name": "武汉地区汇总"
+                    },
+                    {
+                        "blanch_id": "2142",
+                        "blanch_name": "襄阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2143",
+                        "blanch_name": "宜昌分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2144",
+                        "blanch_name": "黄冈分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2050",
+                "parent_branch_name": "烟台分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2055",
+                        "blanch_name": "威海分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2056",
+                        "blanch_name": "烟台分行辖内汇总"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2090",
+                "parent_branch_name": "重庆分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "3941",
+                        "blanch_name": "重庆分行"
+                    },
+                    {
+                        "blanch_id": "3942",
+                        "blanch_name": "重庆九龙坡支行"
+                    },
+                    {
+                        "blanch_id": "3943",
+                        "blanch_name": "重庆大渡口支行"
+                    },
+                    {
+                        "blanch_id": "3944",
+                        "blanch_name": "重庆渝中支行"
+                    },
+                    {
+                        "blanch_id": "3945",
+                        "blanch_name": "重庆江北支行"
+                    },
+                    {
+                        "blanch_id": "3946",
+                        "blanch_name": "重庆沙坪坝支行"
+                    },
+                    {
+                        "blanch_id": "3947",
+                        "blanch_name": "重庆南坪支行"
+                    },
+                    {
+                        "blanch_id": "3948",
+                        "blanch_name": "重庆分行本部"
+                    },
+                    {
+                        "blanch_id": "3949",
+                        "blanch_name": "重庆渝北支行"
+                    },
+                    {
+                        "blanch_id": "3950",
+                        "blanch_name": "重庆两江新区支行"
+                    },
+                    {
+                        "blanch_id": "3951",
+                        "blanch_name": "重庆龙头寺支行"
+                    },
+                    {
+                        "blanch_id": "3952",
+                        "blanch_name": "重庆万州支行"
+                    },
+                    {
+                        "blanch_id": "3953",
+                        "blanch_name": "重庆冉家坝支行"
+                    },
+                    {
+                        "blanch_id": "3954",
+                        "blanch_name": "重庆九龙园区支行"
+                    },
+                    {
+                        "blanch_id": "3955",
+                        "blanch_name": "重庆北城天街支行"
+                    },
+                    {
+                        "blanch_id": "3956",
+                        "blanch_name": "重庆巴南支行"
+                    },
+                    {
+                        "blanch_id": "3957",
+                        "blanch_name": "重庆江津支行"
+                    },
+                    {
+                        "blanch_id": "3958",
+                        "blanch_name": "重庆万州五桥支行"
+                    },
+                    {
+                        "blanch_id": "3959",
+                        "blanch_name": "重庆永川支行"
+                    },
+                    {
+                        "blanch_id": "5521",
+                        "blanch_name": "重庆涪陵支行"
+                    },
+                    {
+                        "blanch_id": "7845",
+                        "blanch_name": "重庆民生路支行"
+                    },
+                    {
+                        "blanch_id": "7847",
+                        "blanch_name": "重庆两路口支行"
+                    },
+                    {
+                        "blanch_id": "7848",
+                        "blanch_name": "重庆高新技术开发区支行"
+                    },
+                    {
+                        "blanch_id": "7849",
+                        "blanch_name": "重庆星光支行"
+                    },
+                    {
+                        "blanch_id": "7852",
+                        "blanch_name": "重庆学府路支行"
+                    },
+                    {
+                        "blanch_id": "7853",
+                        "blanch_name": "重庆大坪支行"
+                    },
+                    {
+                        "blanch_id": "7854",
+                        "blanch_name": "重庆观音桥支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2110",
+                "parent_branch_name": "海口分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2111",
+                        "blanch_name": "海口地区汇总"
+                    },
+                    {
+                        "blanch_id": "2112",
+                        "blanch_name": "三亚分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2114",
+                        "blanch_name": "琼海支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2115",
+                        "blanch_name": "儋州支行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2150",
+                "parent_branch_name": "厦门分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2151",
+                        "blanch_name": "厦门分行汇总"
+                    },
+                    {
+                        "blanch_id": "2152",
+                        "blanch_name": "福建自贸试验区厦门片区分行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2170",
+                "parent_branch_name": "福州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2173",
+                        "blanch_name": "福州地区汇总"
+                    },
+                    {
+                        "blanch_id": "2175",
+                        "blanch_name": "漳州支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2176",
+                        "blanch_name": "泉州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2177",
+                        "blanch_name": "龙岩分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2421",
+                        "blanch_name": "莆田分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2423",
+                        "blanch_name": "三明分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2160",
+                "parent_branch_name": "成都分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2161",
+                        "blanch_name": "成都地区汇总"
+                    },
+                    {
+                        "blanch_id": "2162",
+                        "blanch_name": "绵阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2163",
+                        "blanch_name": "自贡分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2180",
+                "parent_branch_name": "苏州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "3701",
+                        "blanch_name": "苏州分行"
+                    },
+                    {
+                        "blanch_id": "3702",
+                        "blanch_name": "苏州金阊支行"
+                    },
+                    {
+                        "blanch_id": "3703",
+                        "blanch_name": "苏州分行本部"
+                    },
+                    {
+                        "blanch_id": "3704",
+                        "blanch_name": "苏州工业园区支行"
+                    },
+                    {
+                        "blanch_id": "3705",
+                        "blanch_name": "苏州相城支行"
+                    },
+                    {
+                        "blanch_id": "3706",
+                        "blanch_name": "苏州吴中支行"
+                    },
+                    {
+                        "blanch_id": "3707",
+                        "blanch_name": "苏州干将路支行"
+                    },
+                    {
+                        "blanch_id": "3708",
+                        "blanch_name": "昆山支行"
+                    },
+                    {
+                        "blanch_id": "3709",
+                        "blanch_name": "苏州高新技术产业开发区支行"
+                    },
+                    {
+                        "blanch_id": "3710",
+                        "blanch_name": "常熟支行"
+                    },
+                    {
+                        "blanch_id": "3711",
+                        "blanch_name": "苏州木渎支行"
+                    },
+                    {
+                        "blanch_id": "3712",
+                        "blanch_name": "吴江支行"
+                    },
+                    {
+                        "blanch_id": "3713",
+                        "blanch_name": "张家港支行"
+                    },
+                    {
+                        "blanch_id": "3714",
+                        "blanch_name": "太仓支行"
+                    },
+                    {
+                        "blanch_id": "3715",
+                        "blanch_name": "昆山高新技术产业园区支行"
+                    },
+                    {
+                        "blanch_id": "3716",
+                        "blanch_name": "常熟城南支行"
+                    },
+                    {
+                        "blanch_id": "3717",
+                        "blanch_name": "苏州姑苏支行"
+                    },
+                    {
+                        "blanch_id": "3718",
+                        "blanch_name": "苏州盛泽支行"
+                    },
+                    {
+                        "blanch_id": "3719",
+                        "blanch_name": "苏州高新技术产业开发区科技城支行"
+                    },
+                    {
+                        "blanch_id": "3720",
+                        "blanch_name": "张家港港城支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2190",
+                "parent_branch_name": "沈阳分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2191",
+                        "blanch_name": "沈阳地区汇总"
+                    },
+                    {
+                        "blanch_id": "2192",
+                        "blanch_name": "丹东分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2195",
+                        "blanch_name": "鞍山分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2196",
+                        "blanch_name": "锦州分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2310",
+                "parent_branch_name": "太原分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2311",
+                        "blanch_name": "太原地区汇总"
+                    },
+                    {
+                        "blanch_id": "2312",
+                        "blanch_name": "阳泉支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2313",
+                        "blanch_name": "晋城分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2314",
+                        "blanch_name": "临汾分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2210",
+                "parent_branch_name": "天津分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2211",
+                        "blanch_name": "天津滨海分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2212",
+                        "blanch_name": "天津市区汇总"
+                    },
+                    {
+                        "blanch_id": "2213",
+                        "blanch_name": "天津自由贸易试验区分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2280",
+                "parent_branch_name": "石家庄分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2281",
+                        "blanch_name": "石家庄地区汇总"
+                    },
+                    {
+                        "blanch_id": "2282",
+                        "blanch_name": "唐山分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2283",
+                        "blanch_name": "邯郸分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2284",
+                        "blanch_name": "廊坊分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2285",
+                        "blanch_name": "沧州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2286",
+                        "blanch_name": "保定分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2287",
+                        "blanch_name": "张家口分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2240",
+                "parent_branch_name": "济南分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2241",
+                        "blanch_name": "济南地区汇总"
+                    },
+                    {
+                        "blanch_id": "2242",
+                        "blanch_name": "淄博分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2243",
+                        "blanch_name": "潍坊分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2244",
+                        "blanch_name": "泰安分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2245",
+                        "blanch_name": "济宁分行(全辖)"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2250",
+                "parent_branch_name": "西安分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2252",
+                        "blanch_name": "宝鸡分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2253",
+                        "blanch_name": "西安地区汇总"
+                    },
+                    {
+                        "blanch_id": "2254",
+                        "blanch_name": "榆林分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2255",
+                        "blanch_name": "延安分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2220",
+                "parent_branch_name": "郑州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2222",
+                        "blanch_name": "洛阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2223",
+                        "blanch_name": "郑州地区汇总"
+                    },
+                    {
+                        "blanch_id": "2225",
+                        "blanch_name": "许昌分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2226",
+                        "blanch_name": "焦作分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2227",
+                        "blanch_name": "南阳分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2300",
+                "parent_branch_name": "合肥分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2301",
+                        "blanch_name": "合肥地区汇总"
+                    },
+                    {
+                        "blanch_id": "2302",
+                        "blanch_name": "芜湖分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2303",
+                        "blanch_name": "马鞍山分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2304",
+                        "blanch_name": "池州支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2305",
+                        "blanch_name": "蚌埠分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2306",
+                        "blanch_name": "阜阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2307",
+                        "blanch_name": "滁州分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2200",
+                "parent_branch_name": "南京分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2201",
+                        "blanch_name": "南京地区汇总"
+                    },
+                    {
+                        "blanch_id": "2202",
+                        "blanch_name": "常州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2203",
+                        "blanch_name": "扬州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2204",
+                        "blanch_name": "南通分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2205",
+                        "blanch_name": "徐州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2206",
+                        "blanch_name": "镇江分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2207",
+                        "blanch_name": "泰州分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2260",
+                "parent_branch_name": "长沙分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2264",
+                        "blanch_name": "株洲分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2265",
+                        "blanch_name": "长沙地区汇总"
+                    },
+                    {
+                        "blanch_id": "2266",
+                        "blanch_name": "郴州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2267",
+                        "blanch_name": "湘潭支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2269",
+                        "blanch_name": "衡阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2431",
+                        "blanch_name": "岳阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2432",
+                        "blanch_name": "邵阳分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2433",
+                        "blanch_name": "益阳分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2230",
+                "parent_branch_name": "杭州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2231",
+                        "blanch_name": "杭州地区汇总"
+                    },
+                    {
+                        "blanch_id": "2233",
+                        "blanch_name": "台州支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2235",
+                        "blanch_name": "绍兴支行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2236",
+                        "blanch_name": "温州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2238",
+                        "blanch_name": "嘉兴分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2239",
+                        "blanch_name": "金华分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2290",
+                "parent_branch_name": "宁波分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "7680",
+                        "blanch_name": "宁波分行"
+                    },
+                    {
+                        "blanch_id": "7681",
+                        "blanch_name": "宁波江东支行"
+                    },
+                    {
+                        "blanch_id": "7682",
+                        "blanch_name": "宁波北仑支行"
+                    },
+                    {
+                        "blanch_id": "7683",
+                        "blanch_name": "宁波兴宁支行"
+                    },
+                    {
+                        "blanch_id": "7684",
+                        "blanch_name": "宁波联丰支行"
+                    },
+                    {
+                        "blanch_id": "7685",
+                        "blanch_name": "宁波镇海支行"
+                    },
+                    {
+                        "blanch_id": "7686",
+                        "blanch_name": "宁波鄞州支行"
+                    },
+                    {
+                        "blanch_id": "7687",
+                        "blanch_name": "宁波三江支行"
+                    },
+                    {
+                        "blanch_id": "7688",
+                        "blanch_name": "宁波国家高新区支行"
+                    },
+                    {
+                        "blanch_id": "7689",
+                        "blanch_name": "宁波分行本部"
+                    },
+                    {
+                        "blanch_id": "7765",
+                        "blanch_name": "宁波余姚支行"
+                    },
+                    {
+                        "blanch_id": "7766",
+                        "blanch_name": "宁波慈溪支行"
+                    },
+                    {
+                        "blanch_id": "7767",
+                        "blanch_name": "宁波宁海支行"
+                    },
+                    {
+                        "blanch_id": "7768",
+                        "blanch_name": "宁波海曙支行"
+                    },
+                    {
+                        "blanch_id": "7769",
+                        "blanch_name": "宁波新芝支行"
+                    },
+                    {
+                        "blanch_id": "7770",
+                        "blanch_name": "宁波中山支行"
+                    },
+                    {
+                        "blanch_id": "7771",
+                        "blanch_name": "宁波象山支行"
+                    },
+                    {
+                        "blanch_id": "7772",
+                        "blanch_name": "宁波奉化支行"
+                    },
+                    {
+                        "blanch_id": "7773",
+                        "blanch_name": "宁波余慈支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2270",
+                "parent_branch_name": "南宁分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2271",
+                        "blanch_name": "南宁地区汇总"
+                    },
+                    {
+                        "blanch_id": "2272",
+                        "blanch_name": "柳州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2273",
+                        "blanch_name": "桂林支行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2320",
+                "parent_branch_name": "无锡分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "3991",
+                        "blanch_name": "无锡分行本部"
+                    },
+                    {
+                        "blanch_id": "3992",
+                        "blanch_name": "无锡分行"
+                    },
+                    {
+                        "blanch_id": "3993",
+                        "blanch_name": "无锡江阴支行"
+                    },
+                    {
+                        "blanch_id": "5161",
+                        "blanch_name": "无锡宜兴支行"
+                    },
+                    {
+                        "blanch_id": "5162",
+                        "blanch_name": "无锡新区支行"
+                    },
+                    {
+                        "blanch_id": "5163",
+                        "blanch_name": "无锡滨湖支行"
+                    },
+                    {
+                        "blanch_id": "5164",
+                        "blanch_name": "无锡南长支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2330",
+                "parent_branch_name": "南昌分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2331",
+                        "blanch_name": "九江分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2332",
+                        "blanch_name": "南昌分行（同城）"
+                    },
+                    {
+                        "blanch_id": "2333",
+                        "blanch_name": "赣州分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2334",
+                        "blanch_name": "上饶分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2340",
+                "parent_branch_name": "呼和浩特分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2341",
+                        "blanch_name": "呼和浩特地区汇总"
+                    },
+                    {
+                        "blanch_id": "2343",
+                        "blanch_name": "包头分行（全辖）"
+                    },
+                    {
+                        "blanch_id": "2345",
+                        "blanch_name": "鄂尔多斯分行（全辖）"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2360",
+                "parent_branch_name": "乌鲁木齐分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5081",
+                        "blanch_name": "乌鲁木齐分行本部"
+                    },
+                    {
+                        "blanch_id": "5082",
+                        "blanch_name": "乌鲁木齐分行"
+                    },
+                    {
+                        "blanch_id": "5083",
+                        "blanch_name": "乌鲁木齐阿勒泰路支行"
+                    },
+                    {
+                        "blanch_id": "5084",
+                        "blanch_name": "乌鲁木齐民主路支行"
+                    },
+                    {
+                        "blanch_id": "5085",
+                        "blanch_name": "乌鲁木齐河南东路支行"
+                    },
+                    {
+                        "blanch_id": "5086",
+                        "blanch_name": "乌鲁木齐北京路支行"
+                    },
+                    {
+                        "blanch_id": "5087",
+                        "blanch_name": "乌鲁木齐长江路支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2370",
+                "parent_branch_name": "贵阳分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "2371",
+                        "blanch_name": "贵阳市区汇总"
+                    },
+                    {
+                        "blanch_id": "2372",
+                        "blanch_name": "遵义分行(全辖)"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2380",
+                "parent_branch_name": "兰州分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5181",
+                        "blanch_name": "兰州分行本部"
+                    },
+                    {
+                        "blanch_id": "5182",
+                        "blanch_name": "兰州分行"
+                    },
+                    {
+                        "blanch_id": "5183",
+                        "blanch_name": "兰州中山支行"
+                    },
+                    {
+                        "blanch_id": "5184",
+                        "blanch_name": "兰州七里河支行"
+                    },
+                    {
+                        "blanch_id": "5185",
+                        "blanch_name": "兰州新区支行"
+                    },
+                    {
+                        "blanch_id": "5186",
+                        "blanch_name": "兰州安宁支行"
+                    },
+                    {
+                        "blanch_id": "5187",
+                        "blanch_name": "兰州雁滩支行"
+                    },
+                    {
+                        "blanch_id": "5188",
+                        "blanch_name": "兰州西固支行"
+                    },
+                    {
+                        "blanch_id": "5189",
+                        "blanch_name": "兰州城关支行"
+                    },
+                    {
+                        "blanch_id": "5190",
+                        "blanch_name": "兰州滨河支行"
+                    },
+                    {
+                        "blanch_id": "5561",
+                        "blanch_name": "兰州西站支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2390",
+                "parent_branch_name": "香港分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5201",
+                        "blanch_name": "香港分行本部"
+                    },
+                    {
+                        "blanch_id": "5202",
+                        "blanch_name": "香港分行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2391",
+                "parent_branch_name": "银川分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5451",
+                        "blanch_name": "银川分行本部"
+                    },
+                    {
+                        "blanch_id": "5452",
+                        "blanch_name": "银川分行"
+                    },
+                    {
+                        "blanch_id": "5453",
+                        "blanch_name": "银川民族南街支行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2440",
+                "parent_branch_name": "首尔分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5491",
+                        "blanch_name": "首尔分行本部"
+                    },
+                    {
+                        "blanch_id": "5492",
+                        "blanch_name": "首尔分行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2460",
+                "parent_branch_name": "西宁分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5581",
+                        "blanch_name": "西宁分行本部"
+                    },
+                    {
+                        "blanch_id": "5582",
+                        "blanch_name": "西宁分行"
+                    }
+                ]
+            },
+            {
+                "parent_branch_id": "2470",
+                "parent_branch_name": "卢森堡分行（全辖）",
+                "Blanch": [
+                    {
+                        "blanch_id": "5611",
+                        "blanch_name": "卢森堡分行本部"
+                    },
+                    {
+                        "blanch_id": "5612",
+                        "blanch_name": "卢森堡分行"
+                    }
+                ]
+            }
+        ]
+    }
+}

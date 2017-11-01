@@ -1,0 +1,303 @@
+{
+    "data": [{
+      "quota_group_data": [{
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公存款",
+          "indexID": "03000000_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "28.67",
+            "COMP_LAST_MON_BAL": "-8.91",
+            "COMP_LAST_YEAR_BAL": "997.95",
+            "COMP_YEAR_AMP_BAL": "6.03",
+            "DAY_BAL": "17548.90"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公核心存款（利率口径）",
+          "indexID": "B890000000000_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "-203.48",
+            "COMP_LAST_MON_BAL": "-184.14",
+            "COMP_LAST_YEAR_BAL": "-453.04",
+            "COMP_YEAR_AMP_BAL": "-3.74",
+            "DAY_BAL": "11647.00"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公主动负债",
+          "indexID": "03030000_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "-6.92",
+            "COMP_LAST_MON_BAL": "214.80",
+            "COMP_LAST_YEAR_BAL": "705.54",
+            "COMP_YEAR_AMP_BAL": "31.25",
+            "DAY_BAL": "2963.06"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公贷款",
+          "indexID": "01000000_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "3.25",
+            "COMP_LAST_MON_BAL": "-5.11",
+            "COMP_LAST_YEAR_BAL": "1184.75",
+            "COMP_YEAR_AMP_BAL": "10.99",
+            "DAY_BAL": "11960.27"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公贷款(人民币)",
+          "indexID": "01000000_01",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "0.66",
+            "COMP_LAST_MON_BAL": "29.61",
+            "COMP_LAST_YEAR_BAL": "1078.93",
+            "COMP_YEAR_AMP_BAL": "10.70",
+            "DAY_BAL": "11158.06"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公贷款(外币)",
+          "indexID": "01000000_97",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "2.60",
+            "COMP_LAST_MON_BAL": "-34.72",
+            "COMP_LAST_YEAR_BAL": "105.82",
+            "COMP_YEAR_AMP_BAL": "15.20",
+            "DAY_BAL": "802.21"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "贴现",
+          "indexID": "110503_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "-2.25",
+            "COMP_LAST_MON_BAL": "-17.94",
+            "COMP_LAST_YEAR_BAL": "-344.35",
+            "COMP_YEAR_AMP_BAL": "-62.89",
+            "DAY_BAL": "203.18"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        },
+        {
+          "belongGroupID": "ZBG0002",
+          "dimensionID": "SD",
+          "index": "对公不良贷款余额",
+          "indexID": "B150100000000_99",
+          "isClick": "true",
+          "list_datas": {
+            "COMP_LAST_DAY_BAL": "-10.38",
+            "COMP_LAST_MON_BAL": "4.80",
+            "COMP_LAST_YEAR_BAL": "22.72",
+            "COMP_YEAR_AMP_BAL": "11.43",
+            "DAY_BAL": "221.42"
+          },
+          "table_titles": [{
+              "name": "比上日",
+              "width": "50px"
+            },
+            {
+              "name": "比上月",
+              "width": "50px"
+            },
+            {
+              "name": "比年初",
+              "width": "50px"
+            },
+            {
+              "name": "本年增幅",
+              "width": "50px"
+            },
+            {
+              "name": "本日余额",
+              "width": "50px"
+            }
+          ],
+          "unit": "(亿,%)"
+        }
+      ],
+      "quota_group_id": "ZBG0002",
+      "quota_group_index": 0,
+      "quota_group_name": "对公关键指标",
+      "yellow_block_data": [
+  
+      ]
+    }],
+    "result": {
+      "code": "0",
+      "message": "操作成功"
+    }
+  }

@@ -1,0 +1,352 @@
+{
+    "data": {
+      "background_color": "#00BCBD",
+      "dual_line_color": "#4EF2FC",
+      "icon_url": "http://bbs.lidroid.com/static/image/common/logo.png",
+      "index": "对公不良贷款余额",
+      "lable": "下属机构指标（亿,%）",
+      "list_datas": [{
+          "COMP_LAST_DAY_BAL": "0.00",
+          "COMP_LAST_MON_BAL": "-0.02",
+          "COMP_LAST_YEAR_BAL": "-59.77",
+          "COMP_YEAR_AMP_BAL": "-99.82",
+          "DAY_BAL": "0.11",
+          "ORG_NAME": "总行"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-13.96",
+          "COMP_LAST_MON_BAL": "-48.18",
+          "COMP_LAST_YEAR_BAL": "42.57",
+          "COMP_YEAR_AMP_BAL": "2.86",
+          "DAY_BAL": "1531.88",
+          "ORG_NAME": "北京"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.87",
+          "COMP_LAST_MON_BAL": "2.88",
+          "COMP_LAST_YEAR_BAL": "-10.68",
+          "COMP_YEAR_AMP_BAL": "-10.19",
+          "DAY_BAL": "94.10",
+          "ORG_NAME": "黑龙江"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-26.95",
+          "COMP_LAST_MON_BAL": "11.13",
+          "COMP_LAST_YEAR_BAL": "-78.10",
+          "COMP_YEAR_AMP_BAL": "-15.50",
+          "DAY_BAL": "425.83",
+          "ORG_NAME": "深圳"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "1.46",
+          "COMP_LAST_MON_BAL": "3.64",
+          "COMP_LAST_YEAR_BAL": "7.38",
+          "COMP_YEAR_AMP_BAL": "8.13",
+          "DAY_BAL": "98.10",
+          "ORG_NAME": "烟台"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-123.16",
+          "COMP_LAST_MON_BAL": "25.14",
+          "COMP_LAST_YEAR_BAL": "-61.59",
+          "COMP_YEAR_AMP_BAL": "-9.55",
+          "DAY_BAL": "583.62",
+          "ORG_NAME": "上海"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.61",
+          "COMP_LAST_MON_BAL": "0.31",
+          "COMP_LAST_YEAR_BAL": "-36.88",
+          "COMP_YEAR_AMP_BAL": "-24.19",
+          "DAY_BAL": "115.60",
+          "ORG_NAME": "大连"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "2.14",
+          "COMP_LAST_MON_BAL": "4.35",
+          "COMP_LAST_YEAR_BAL": "-36.34",
+          "COMP_YEAR_AMP_BAL": "-17.80",
+          "DAY_BAL": "167.80",
+          "ORG_NAME": "长春"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "2.11",
+          "COMP_LAST_MON_BAL": "-12.72",
+          "COMP_LAST_YEAR_BAL": "-2.59",
+          "COMP_YEAR_AMP_BAL": "-0.77",
+          "DAY_BAL": "334.57",
+          "ORG_NAME": "重庆"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "2.90",
+          "COMP_LAST_MON_BAL": "-0.14",
+          "COMP_LAST_YEAR_BAL": "-8.54",
+          "COMP_YEAR_AMP_BAL": "-3.67",
+          "DAY_BAL": "224.33",
+          "ORG_NAME": "青岛"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.65",
+          "COMP_LAST_MON_BAL": "0.68",
+          "COMP_LAST_YEAR_BAL": "-17.54",
+          "COMP_YEAR_AMP_BAL": "-8.09",
+          "DAY_BAL": "199.26",
+          "ORG_NAME": "海口"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-3.00",
+          "COMP_LAST_MON_BAL": "-0.06",
+          "COMP_LAST_YEAR_BAL": "48.13",
+          "COMP_YEAR_AMP_BAL": "10.28",
+          "DAY_BAL": "516.56",
+          "ORG_NAME": "广州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-24.37",
+          "COMP_LAST_MON_BAL": "-21.68",
+          "COMP_LAST_YEAR_BAL": "-44.69",
+          "COMP_YEAR_AMP_BAL": "-28.11",
+          "DAY_BAL": "114.29",
+          "ORG_NAME": "昆明"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.02",
+          "COMP_LAST_MON_BAL": "1.08",
+          "COMP_LAST_YEAR_BAL": "-40.37",
+          "COMP_YEAR_AMP_BAL": "-11.66",
+          "DAY_BAL": "305.89",
+          "ORG_NAME": "武汉"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "7.95",
+          "COMP_LAST_MON_BAL": "4.53",
+          "COMP_LAST_YEAR_BAL": "-19.63",
+          "COMP_YEAR_AMP_BAL": "-18.08",
+          "DAY_BAL": "88.99",
+          "ORG_NAME": "厦门"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-11.49",
+          "COMP_LAST_MON_BAL": "0.22",
+          "COMP_LAST_YEAR_BAL": "-58.71",
+          "COMP_YEAR_AMP_BAL": "-18.10",
+          "DAY_BAL": "265.69",
+          "ORG_NAME": "成都"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.77",
+          "COMP_LAST_MON_BAL": "-2.86",
+          "COMP_LAST_YEAR_BAL": "-2.87",
+          "COMP_YEAR_AMP_BAL": "-1.64",
+          "DAY_BAL": "172.52",
+          "ORG_NAME": "福州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-19.04",
+          "COMP_LAST_MON_BAL": "-25.97",
+          "COMP_LAST_YEAR_BAL": "-37.93",
+          "COMP_YEAR_AMP_BAL": "-8.61",
+          "DAY_BAL": "402.54",
+          "ORG_NAME": "苏州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "4.39",
+          "COMP_LAST_MON_BAL": "13.32",
+          "COMP_LAST_YEAR_BAL": "16.42",
+          "COMP_YEAR_AMP_BAL": "8.68",
+          "DAY_BAL": "205.58",
+          "ORG_NAME": "沈阳"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-8.85",
+          "COMP_LAST_MON_BAL": "-33.32",
+          "COMP_LAST_YEAR_BAL": "-4.53",
+          "COMP_YEAR_AMP_BAL": "-0.52",
+          "DAY_BAL": "868.98",
+          "ORG_NAME": "南京"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-6.53",
+          "COMP_LAST_MON_BAL": "-14.61",
+          "COMP_LAST_YEAR_BAL": "-28.34",
+          "COMP_YEAR_AMP_BAL": "-9.22",
+          "DAY_BAL": "279.17",
+          "ORG_NAME": "天津"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "1.44",
+          "COMP_LAST_MON_BAL": "-4.71",
+          "COMP_LAST_YEAR_BAL": "-35.54",
+          "COMP_YEAR_AMP_BAL": "-8.95",
+          "DAY_BAL": "361.65",
+          "ORG_NAME": "郑州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.30",
+          "COMP_LAST_MON_BAL": "-1.70",
+          "COMP_LAST_YEAR_BAL": "-8.87",
+          "COMP_YEAR_AMP_BAL": "-2.13",
+          "DAY_BAL": "407.35",
+          "ORG_NAME": "杭州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-3.03",
+          "COMP_LAST_MON_BAL": "-13.65",
+          "COMP_LAST_YEAR_BAL": "-21.91",
+          "COMP_YEAR_AMP_BAL": "-6.44",
+          "DAY_BAL": "318.37",
+          "ORG_NAME": "济南"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "5.50",
+          "COMP_LAST_MON_BAL": "-15.91",
+          "COMP_LAST_YEAR_BAL": "-51.39",
+          "COMP_YEAR_AMP_BAL": "-14.35",
+          "DAY_BAL": "306.71",
+          "ORG_NAME": "西安"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.61",
+          "COMP_LAST_MON_BAL": "-30.18",
+          "COMP_LAST_YEAR_BAL": "20.08",
+          "COMP_YEAR_AMP_BAL": "3.59",
+          "DAY_BAL": "579.63",
+          "ORG_NAME": "长沙"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "3.39",
+          "COMP_LAST_MON_BAL": "2.82",
+          "COMP_LAST_YEAR_BAL": "15.26",
+          "COMP_YEAR_AMP_BAL": "5.35",
+          "DAY_BAL": "300.58",
+          "ORG_NAME": "南宁"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "13.69",
+          "COMP_LAST_MON_BAL": "21.37",
+          "COMP_LAST_YEAR_BAL": "-52.87",
+          "COMP_YEAR_AMP_BAL": "-12.34",
+          "DAY_BAL": "375.53",
+          "ORG_NAME": "石家庄"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-4.08",
+          "COMP_LAST_MON_BAL": "-8.10",
+          "COMP_LAST_YEAR_BAL": "-62.59",
+          "COMP_YEAR_AMP_BAL": "-25.88",
+          "DAY_BAL": "179.25",
+          "ORG_NAME": "宁波"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.20",
+          "COMP_LAST_MON_BAL": "-9.30",
+          "COMP_LAST_YEAR_BAL": "43.48",
+          "COMP_YEAR_AMP_BAL": "10.71",
+          "DAY_BAL": "449.35",
+          "ORG_NAME": "合肥"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-7.88",
+          "COMP_LAST_MON_BAL": "-19.74",
+          "COMP_LAST_YEAR_BAL": "54.59",
+          "COMP_YEAR_AMP_BAL": "17.85",
+          "DAY_BAL": "360.40",
+          "ORG_NAME": "太原"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.99",
+          "COMP_LAST_MON_BAL": "1.50",
+          "COMP_LAST_YEAR_BAL": "-35.44",
+          "COMP_YEAR_AMP_BAL": "-14.10",
+          "DAY_BAL": "216.02",
+          "ORG_NAME": "无锡"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "4.67",
+          "COMP_LAST_MON_BAL": "-11.47",
+          "COMP_LAST_YEAR_BAL": "23.74",
+          "COMP_YEAR_AMP_BAL": "7.58",
+          "DAY_BAL": "336.84",
+          "ORG_NAME": "南昌"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.68",
+          "COMP_LAST_MON_BAL": "3.12",
+          "COMP_LAST_YEAR_BAL": "72.39",
+          "COMP_YEAR_AMP_BAL": "66.09",
+          "DAY_BAL": "181.92",
+          "ORG_NAME": "呼和浩特"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.29",
+          "COMP_LAST_MON_BAL": "1.73",
+          "COMP_LAST_YEAR_BAL": "-11.75",
+          "COMP_YEAR_AMP_BAL": "-28.59",
+          "DAY_BAL": "29.36",
+          "ORG_NAME": "乌鲁木齐"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.06",
+          "COMP_LAST_MON_BAL": "-0.91",
+          "COMP_LAST_YEAR_BAL": "20.13",
+          "COMP_YEAR_AMP_BAL": "15.26",
+          "DAY_BAL": "152.06",
+          "ORG_NAME": "贵阳"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.22",
+          "COMP_LAST_MON_BAL": "-0.91",
+          "COMP_LAST_YEAR_BAL": "6.93",
+          "COMP_YEAR_AMP_BAL": "10.41",
+          "DAY_BAL": "73.45",
+          "ORG_NAME": "兰州"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "-0.19",
+          "COMP_LAST_MON_BAL": "-2.83",
+          "COMP_LAST_YEAR_BAL": "-2.46",
+          "COMP_YEAR_AMP_BAL": "-13.81",
+          "DAY_BAL": "15.32",
+          "ORG_NAME": "银川"
+        },
+        {
+          "COMP_LAST_DAY_BAL": "0.00",
+          "COMP_LAST_MON_BAL": "-2.96",
+          "COMP_LAST_YEAR_BAL": "7.79",
+          "COMP_YEAR_AMP_BAL": "0.00",
+          "DAY_BAL": "7.79",
+          "ORG_NAME": "西宁分行（全辖）"
+        }
+      ],
+      "single_line_color": "#00BCBE",
+      "table_titles": [{
+          "name": "比上日",
+          "width": "50px"
+        },
+        {
+          "name": "比上月",
+          "width": "50px"
+        },
+        {
+          "name": "比年初",
+          "width": "50px"
+        },
+        {
+          "name": "本年增幅",
+          "width": "50px"
+        },
+        {
+          "name": "本日余额",
+          "width": "50px"
+        },
+        {
+          "name": "分行名称",
+          "width": "50px"
+        }
+      ]
+    },
+    "result": {
+      "code": "0",
+      "message": "操作成功"
+    }
+  }
